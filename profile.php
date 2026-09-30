@@ -29,4 +29,14 @@ require 'includes/header.php';
     </div> 
 
 </section> 
+<section class="section">
+    <div class="container">
+        <h2>Fokus Pembelajaran</h2>
+        <ul>
+            <li>Pemrogrgraman Web</li>
+            <li>Database MySQL</li>
+            <li>Git dan GitHub</li>
+        </ul>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?> 
